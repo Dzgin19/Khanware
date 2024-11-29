@@ -9,9 +9,9 @@ let device = {
 // Discaimer: user parameters were managed by the main injector.
 // This will not change automatically.
 let user = {
-    username: "Username",
-    nickname: "Nickname",
-    UID: 0
+    username: 
+    nickname: 
+    UID: 
 }
 
 let loadedPlugins = [];
